@@ -53,7 +53,7 @@ When the report contains a `.pdResult` together with its `.pdStudy`, the study d
 ## Installation
 
 ```bash
-git clone https://github.com/<your-user>/pd-study-report.git
+git clone https://github.com/science64/pd-study-report.git
 cd pd-study-report
 ```
 
