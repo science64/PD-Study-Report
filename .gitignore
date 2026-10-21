@@ -1,0 +1,28 @@
+# Proteome Discoverer data - never commit (large, and may be unpublished or personal)
+*.pdResult
+*.pdresult
+*.pdResultView
+*.pdStudy
+*.pdstudy
+*.msf
+*.MSF
+*.raw
+*.RAW
+*.fasta
+
+# Generated reports (contain study details)
+PD_report_*.html
+PD_report_*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
